@@ -3,9 +3,7 @@ package com.mojeapp.service;
 import com.google.gson.Gson;
 import com.mojeapp.model.User;
 
-/**
- * Klasa UserService dostarcza metody do obsługi informacji o użytkownikach.
- */
+
 public class UserService {
 
     public void displayUserInfo(User user) {
